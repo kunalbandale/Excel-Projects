@@ -3,14 +3,14 @@
 Welcome to the Excel Projects Repository! This repository houses a collection of my Excel projects, showcasing various data analysis, visualization, and automation tasks accomplished using Microsoft Excel.
 
 ## Projects Included
-Decision factors
-Final employee payroll
-Gradebook
-Payroll extended
-Payroll
-Sales
-Car inventory
-Problem statements
+- Decision factors
+- Final employee payroll
+- Gradebook
+- Payroll extended
+- Payroll
+- Sales
+- Car inventory
+- Problem statements
 
 ## Contributing
 
